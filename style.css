@@ -19,7 +19,7 @@ padding: 20px;
 
 titulo {
 padding: 20px;
-text-align: center;
+justify-self: center;
 width: 50%;
 font: 40%;
 }
@@ -43,7 +43,7 @@ font: 40%;
 
 home {
 padding: 50%;
-text-align: center;
+justify-self: center;
 color: #fff;
 width: 50%;
 font: 40%;
