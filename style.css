@@ -2,7 +2,7 @@ body{
 margin: 0;
 padding: 0;
 box-sizing: boder-box;
-background-color: #3498db;
+background-color: #608BC1;
 }
 
 body {
@@ -11,7 +11,7 @@ background-color: #3498db;
 }
 
 header {
-background-color: #3498db
+background-color: #CBDCEB
 color: white;
 width: 80;
 padding: 20px;
